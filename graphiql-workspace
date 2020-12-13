@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using UglifyJS v3.4.4.
+ * Original file: /npm/graphiql-workspace@1.1.5/dist/index.js
+ * 
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+"use strict";var GraphiQLTab=require("./GraphiQLTab"),GraphiQLToolbar=require("./GraphiQLToolbar"),GraphiQLWorkspace=require("./GraphiQLWorkspace"),HeaderEditor=require("./HeaderEditor"),KeepLastTaskQueue=require("./KeepLastTaskQueue"),QuerySelectionButton=require("./QuerySelectionButton"),config=require("./config");module.exports={GraphiQLTab:GraphiQLTab.GraphiQLTab,GraphiQLToolbar:GraphiQLToolbar.GraphiQLToolbar,GraphiQLWorkspace:GraphiQLWorkspace.GraphiQLWorkspace,HeaderEditor:HeaderEditor.HeaderEditor,KeepLastTaskQueue:KeepLastTaskQueue.KeepLastTaskQueue,QuerySelectionButton:QuerySelectionButton.QuerySelectionButton,State:config.State,sameQuery:config.sameQuery,AppConfig:config.AppConfig,TabConfig:config.TabConfig};
+//# sourceMappingURL=/sm/ff30f025d2bdb641394e28cb7bf7fad2397a4e95c4c6553879d4dad3add9a582.map
